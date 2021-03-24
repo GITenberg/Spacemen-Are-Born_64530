@@ -1,0 +1,25 @@
+_repo: Spacemen-Are-Born_64530
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Branham, Bolling
+    gutenberg_agent_id: '52943'
+    url: http://www.gutenberg.org/2009/agents/52943
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64530'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space flight -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Space travelers -- Fiction'
+- GITenberg
+title: Spacemen Are Born
+url: http://www.gutenberg.org/ebooks/64530
